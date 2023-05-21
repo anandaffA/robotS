@@ -32,7 +32,7 @@ class App extends Component {
 
     return (
       <div>
-        <h1 className="tc">ROBOTFRIENDS !</h1>
+        <h1 className="tc">ROBOTFRIENDS</h1>
         <SearchBox searchChange={this.onSearchChange} />
         <Scroll>
           <ErrorBoundary>
