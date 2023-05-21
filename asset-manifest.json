@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robotS/static/css/main.71f1d152.css",
+    "main.js": "/robotS/static/js/main.32ac5bda.js",
+    "static/js/787.32032a02.chunk.js": "/robotS/static/js/787.32032a02.chunk.js",
+    "static/media/AstroSpace-eZ2Bg.ttf": "/robotS/static/media/AstroSpace-eZ2Bg.a615ed3574be7fe2cd41.ttf",
+    "index.html": "/robotS/index.html",
+    "main.71f1d152.css.map": "/robotS/static/css/main.71f1d152.css.map",
+    "main.32ac5bda.js.map": "/robotS/static/js/main.32ac5bda.js.map",
+    "787.32032a02.chunk.js.map": "/robotS/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f1d152.css",
+    "static/js/main.32ac5bda.js"
+  ]
+}
